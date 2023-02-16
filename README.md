@@ -19,7 +19,7 @@ The main goal of this project is to develop an effect that shows two variants of
 ## Task statement
 <p>A simple experiment with <b>css and html as well as javascript</b>, showing the possibilities in two versions.</p>
 <p>The demo implementation of the first version of the clock can be viewed again at this link:<a href="https://heorhiizemlianko.github.io/Web-clock/clock%201%20variant/clock.html"> <b>1 variant clock</b> </a></p>
-<p>The demo implementation of the second version of the clock can be viewed again at this link:<a href="https://heorhiizemlianko.github.io/Web-clock/clock%201%20variant/clock.html"> <b>2 variant clock</b> </a></p>
+<p>The demo implementation of the second version of the clock can be viewed again at this link:<a href="https://heorhiizemlianko.github.io/Web-clock/clock%202%20variant/clock.html"> <b>2 variant clock</b> </a></p>
 
 ## Schematic representation of the HTML structure
 ```
